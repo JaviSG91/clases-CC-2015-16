@@ -48,3 +48,12 @@ En este hito estoy teniendo algunos problemas actualmente.
 **Alumno:**
 Rosendo Ismael Fernández Pérez: [@lrdzero](https://github.com/lrdzero)
 
+
+## JJuegoCC
+**Enlace al repositorio:** [https://github.com/JaviSG91/JJuegoCC](https://github.com/JaviSG91/JJuegoCC)
+
+**Enlace a la documentación Hito 1:** 
+[https://github.com/JaviSG91/JJuegoCC/blob/master/README.md](https://github.com/JaviSG91/JJuegoCC/blob/master/README.md#hito1)  
+
+**Alumno:** 
+Javier Salido Gómez: [@JaviSG91](https://github.com/JaviSG91)
